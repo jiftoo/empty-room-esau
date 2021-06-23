@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Friendly Esau in empty rooms</name>
+    <directory>friendly esau in empty rooms_2524878247</directory>
+    <id>2524878247</id>
+    <description>Esau becomes friendly when in a room with no enemies.
+
+Mod config menu and additional functionality included!
+
+
+This mod allows you to:
+[list]
+	[*]Tweak how Esau behaves in hostile rooms. This includes:
+		[list]
+		 	[*]Buddy (Friendly) mode
+			[*]Ally (Helpful) mode with custom AI
+			[*]Annoying (Dark side) mode, where Esau deals less damage to enemies and still attacks you
+		[/list]
+	[*]Turn on invulnerability to Esau while in ghost form
+	[*]Make Esau not charge you when friendly (took the most time to implement tbh :D)
+[/list]
+
+Notes:
+
+I have only tested this with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2498592925&amp;searchtext=Dark+Shesau] Dark Shesau [/url] mod enabled
+
+All features but Ghost form immunity and Charmed mode are sorta buggy. Bugs include: Esau disappearing when leaving room, Esau being harmless to Jacob when he should not, Esau spawning in the starting room of Basement II onwards immediately.</description>
+    <version>1.4</version>
+    <visibility>Private</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+    <tag id="Player Characters"/>
+    <tag id="Tweaks"/>
+</metadata>
