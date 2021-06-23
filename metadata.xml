@@ -24,8 +24,10 @@ Notes:
 
 I have only tested this with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2498592925&amp;searchtext=Dark+Shesau] Dark Shesau [/url] mod enabled
 
-All features but Ghost form immunity and Charmed mode are sorta buggy. Bugs include: Esau disappearing when leaving room, Esau being harmless to Jacob when he should not, Esau spawning in the starting room of Basement II onwards immediately.</description>
-    <version>1.4</version>
+All features but Ghost form immunity and Charmed mode are sorta buggy. Bugs include: Esau disappearing when leaving room, Esau being harmless to Jacob when he should not, Esau spawning in the starting room of Basement II onwards immediately.
+
+Here is [url=https://github.com/jiftoo/empty-room-esau]project's Github[/url] because why not.</description>
+    <version>1.1</version>
     <visibility>Private</visibility>
     <tag id="Lua"/>
     <tag id="Items"/>
