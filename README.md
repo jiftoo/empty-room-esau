@@ -1,5 +1,8 @@
 # Esau becomes friendly when in a room with no enemies.
 
+### Available on Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=2524878247
+
+
 Mod config menu and additional functionality included!
 
 
